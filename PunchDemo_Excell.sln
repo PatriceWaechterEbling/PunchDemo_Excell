@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PunchDemo_Excell", "PunchDemo_Excell.vcproj", "{C31A6257-344D-44E7-8EE5-03ECDC839309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C31A6257-344D-44E7-8EE5-03ECDC839309}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C31A6257-344D-44E7-8EE5-03ECDC839309}.Debug|Win32.Build.0 = Debug|Win32
+		{C31A6257-344D-44E7-8EE5-03ECDC839309}.Release|Win32.ActiveCfg = Release|Win32
+		{C31A6257-344D-44E7-8EE5-03ECDC839309}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
